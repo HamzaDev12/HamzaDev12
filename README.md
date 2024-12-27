@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **FullStack**
 
-- 💬 Ask me about **Android , MEARN**
-
 - 📫 How to reach me **hmustafe299@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
