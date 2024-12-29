@@ -23,8 +23,6 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=HamzaDev12&&theme=xcode)](https://github.com/HamzaDev12)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HamzaDev12&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="HamzaDev12" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HamzaDev12&show_icons=true&locale=en&theme=tokyonight" alt="HamzaDev12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDev12&&theme=tokyonight" alt="rishavchanda" /></p>
