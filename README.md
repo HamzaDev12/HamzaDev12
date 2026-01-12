@@ -7,12 +7,7 @@ Hi 👋, I’m **Hamza**, a passionate **Full-Stack Developer** specializing in 
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDev12&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaDev12"/>
+  <img src="https://streak-stats.demolab.com?user=HamzaDev12&theme=tokyonight&hide_border=true" />
 </p>
 
 
