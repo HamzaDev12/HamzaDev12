@@ -13,6 +13,8 @@ Hi 👋, I’m **Hamza**, a passionate **Full-Stack Developer** specializing in 
   />
 </p>
 
+https://github-readme-streak-stats.herokuapp.com/?user=HamzaDev12
+
 
 ---
 
