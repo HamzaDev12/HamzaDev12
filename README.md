@@ -6,10 +6,8 @@ Hi 👋, I’m **Hamza**, a passionate **Full-Stack Developer** specializing in 
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HamzaDev12&theme=tokyonight&hide_border=true" />
-</p>
 
+![](https://nirzak-streak-stats.vercel.app/?user=HamzaDev12&theme=dark&hide_border=false)<br/>
 
 ---
 
